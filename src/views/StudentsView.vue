@@ -22,10 +22,4 @@ export default {
     min-height: 100vh;
     background-color: var(--blue-super-light);
 }
-
-.page-title {
-    font-size: var(--font-size-1);
-    font-weight: bold;
-    padding-top: 48px;
-}
 </style>

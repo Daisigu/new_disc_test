@@ -301,7 +301,7 @@ table {
 th,
 td {
     text-align: start;
-    padding: 10px;
+    padding: 23.5px 20px;
     background-color: var(--white);
 }
 

@@ -1,7 +1,8 @@
 <template>
-    <div class="circular-progress" :style="`background: conic-gradient(${color} calc(${percent}deg * 3.6), #ffffff00 0deg);`">
+    <div class="circular-progress"
+        :style="`background: conic-gradient(${color} calc(${percent}deg * 3.6), #ffffff00 0deg);`">
         <div class="value-container">
-            {{ percent }}
+            {{ percent }}%
         </div>
     </div>
 </template>
